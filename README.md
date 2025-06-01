@@ -3,7 +3,7 @@ Task 4 : Setup and Use a Firewall on Windows/Linux
 
 used windows firewall for testing firewall traffic
 
-used ward cloudflare for testing inbound traffic
+used warp cloudflare for testing inbound traffic
 
 How a Firewall Filters Traffic:
 A firewall acts as a gatekeeper between your network (or device) and external networks (like the internet). It filters traffic based on rules set by the user or system admin. 
